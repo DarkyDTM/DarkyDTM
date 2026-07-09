@@ -31,9 +31,9 @@
 			alt="bash" width="40" height="40"
 		/>
 	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+	<a href="https://www.python.org/" target="_blank" rel="noreferrer">
 		<img
-			src="/assets/icons/tools/lang_c.svg"
+			src="/assets/icons/tools/python.svg"
 			alt="c" width="40" height="40"
 		/>
 	</a>
