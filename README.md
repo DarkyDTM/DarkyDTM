@@ -10,7 +10,6 @@
 
 - My main project: **[VanillaKernel](https://github.com/vanilla-kernel)**
 - My bio: **[link](https://darky.is-a.dev)**
-- My public GPG key: **[View](/assets/pub.asc)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
